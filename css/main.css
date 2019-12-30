@@ -67,7 +67,11 @@ body {
   line-height: 130%;
   /* or 18px */
   color: #005AAD; }
-.header-contacts__number a, .header-contacts__button a {
+.header-contacts__number a {
+  text-decoration: none;
+}
+
+.header-contacts__button a {
   text-decoration: none;
 }
 /* Cлайдер */
