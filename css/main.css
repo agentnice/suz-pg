@@ -64,16 +64,12 @@ body {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
+  text-decoration: none;
   line-height: 130%;
   /* or 18px */
   color: #005AAD; }
 .header-contacts__number a {
-  text-decoration: none;
-}
-
-.header-contacts__button a {
-  text-decoration: none;
-}
+  text-decoration: none; }
 /* Cлайдер */
 .slider {
   width: 100%;
