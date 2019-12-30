@@ -50,6 +50,7 @@ body {
 
 .header-contacts__number {
   font-family: suz-hl;
+  text-decoration: none;
   font-style: normal;
   font-weight: bold;
   font-size: 25px;
