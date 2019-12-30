@@ -50,7 +50,7 @@ body {
 
 .header-contacts__number {
   font-family: suz-hl;
-  
+  text-decoration: none;
   font-style: normal;
   font-weight: bold;
   font-size: 25px;
@@ -68,7 +68,7 @@ body {
   line-height: 130%;
   /* or 18px */
   color: #005AAD; }
-.header-contacts__number a {
+.header-contacts a {
   text-decoration: none; }
 /* Cлайдер */
 .slider {
